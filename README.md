@@ -14,7 +14,7 @@ Store and query embeddings in ChromaDB.
 
 # installation 
 # Clone the repo
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/haroonzaheer/Offline-RAG-Based-Document-Intelligence-System-.git
 cd your-repo
 
 # Create a virtual environment (optional but recommended)
